@@ -1,6 +1,4 @@
-- Hi, I’m @Zahkklm, I'm interested in Algorithms & Data Structures, Complexity and Research Papers about data structures. 
-- Specifically, any kind of efficency management interests me...
-- I focus on image processing these days.
+- Hi, I am Özgür, interested in Algorithms & Data Structures, focusing currently on Computer Vision.
 - 📫 My email: ozgurpeynirci@gmail.com
 
 <!---
