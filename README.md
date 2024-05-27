@@ -1,4 +1,4 @@
-- Hi, I am Özgür, interested in Algorithms & Data Structures, focusing currently on Computer Vision.
+- I'm Özgür, interested in System Design, Backend Development, Database Management, Test Automation, team work. 
 - 📫 My email: ozgurpeynirci@gmail.com
 
 <!---
