@@ -1,5 +1,5 @@
 - I'm Özgür, interested in System Design, Backend Development, Database Management, Test Automation, SCRUM.
-- Currently busy with Java Spring bootcamp. 
+- Currently busy with a Java Spring bootcamp. 
 - 📫 My email: ozgurpeynirci@gmail.com
 
 <!---
