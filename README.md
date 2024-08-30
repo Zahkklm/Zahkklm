@@ -1,5 +1,6 @@
 - I'm Özgür, interested in System Design, Backend Development, Database Management, Test Automation, SCRUM.
-- Currently busy with a Java Spring bootcamp. 
+
+  [![Özgür's GitHub stats](https://github-readme-stats.vercel.app/api?username=zahkklm)](https://github.com/anuraghazra/github-readme-stats)
 - 📫 My email: ozgurpeynirci@gmail.com
 
 <!---
