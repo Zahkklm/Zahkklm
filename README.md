@@ -3,6 +3,8 @@
 
 I'm Özgür, interested in System Design, Backend Development, Database Management, Test Automation.
 
+[![Özgür's GitHub stats](https://github-readme-stats.vercel.app/api?username=zahkklm)](https://github.com/anuraghazra/github-readme-stats)
+
 My Medium Article: https://medium.com/@ozgurpeynirci/deploy-docker-container-for-free-on-oracle-cloud-4363ac79524b
 
 
