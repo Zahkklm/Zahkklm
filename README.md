@@ -6,8 +6,6 @@ My Medium Article: https://medium.com/@ozgurpeynirci/deploy-docker-container-for
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahkklm)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Özgür's GitHub stats](https://github-readme-stats.vercel.app/api?username=zahkklm&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Özgür'sGitHub Streak](https://streak-stats.demolab.com/?user=zahkklm)](https://git.io/streak-stats)
 
 📫 My email: ozgurpeynirci@gmail.com
