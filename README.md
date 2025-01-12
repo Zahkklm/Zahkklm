@@ -1,7 +1,7 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=zahkklm&label=Profile%20views&color=0e75b6&style=flat"
                      alt="theapache64"/></p>
 
-I'm Özgür, interested in System Design, Backend Development, Database Management.
+My Portfolio: https://zahkklm.github.io
 
 My CV: [https://flowcv.com/resume/vkcofj0njh](https://flowcv.com/resume/vkcofj0njh)
 
