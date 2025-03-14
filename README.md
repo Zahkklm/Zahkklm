@@ -7,8 +7,6 @@ My CV: [https://flowcv.com/resume/vkcofj0njh](https://flowcv.com/resume/vkcofj0n
 
 My Medium Article: https://medium.com/@ozgurpeynirci/deploy-docker-container-for-free-on-oracle-cloud-4363ac79524b
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahkklm)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Özgür'sGitHub Streak](https://streak-stats.demolab.com/?user=zahkklm)](https://git.io/streak-stats)
 
 📫 My email: ozgurpeynirci@gmail.com
